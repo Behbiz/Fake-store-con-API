@@ -1,6 +1,6 @@
 <template>
   <header>
-    <a href="#" class="logo"><img :src="store" alt="store" width="120" /></a>
+    <a href="/" class="logo"><img :src="store" alt="store" width="120" /></a>
     <ul class="nav">
       <li><a href="/profile">Profile</a></li>
       <li><a href="/login">Login</a></li>
@@ -18,7 +18,7 @@
             </button>
         </div>
       </li>
-      <li>
+      <li >
         <button><icon-bag /></button>( )
       </li>
       <li><a href="/logout">Logout</a></li>
