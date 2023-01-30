@@ -1,5 +1,6 @@
-# My Fake Store - Bootcamp KeepCoding student project, with the proposal to build a "Fake Store" with Vue and Typescript resources, using a specific API (Platzi).
+# My Fake Store
 
+Bootcamp KeepCoding student project, with the proposal to build a "Fake Store" with Vue and Typescript resources, using a specific API (Platzi).
 ## Project setup
 ```
 npm install
